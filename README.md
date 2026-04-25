@@ -110,3 +110,12 @@ I've published the full step-by-step technical guide (in English) for anyone who
 ---
 
 **Original blog post (Spanish):** [alexmilla.net](https://www.alexmilla.net/montando-una-ia-local-en-una-jetson-orin-nano-de-8-gb/)
+
+## Author
+
+**Alex Milla** — [alexmilla.dev](https://alexmilla.dev)
+
+If this tool saves you time, a coffee is always welcome ☕
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-alexmilla.dev-yellow?style=flat&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/alexmilla)
+
