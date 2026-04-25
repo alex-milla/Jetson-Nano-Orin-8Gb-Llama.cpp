@@ -105,7 +105,7 @@ The Jetson Orin Nano is silent, low power, fits anywhere, and once configured it
 
 I've published the full step-by-step technical guide (in English) for anyone who wants to replicate the setup from scratch starting from a freshly installed OS.
 
-👉 **[Setup Guide](GUIDE.md)**
+👉 **[Setup Guide](https://github.com/alex-milla/Jetson-Nano-Orin-8Gb-Llama.cpp/blob/main/llama-cpp-jetson-orin-nano-guide.md)**
 
 ---
 
